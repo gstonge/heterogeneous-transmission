@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pandas
+fastparquet
+pybind11
+numba
+jupyterlab
+ray
